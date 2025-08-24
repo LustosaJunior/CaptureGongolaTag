@@ -1,0 +1,4 @@
+Fase 1 - Pesquisa de mercado
+Fase 2 - Desenho do wireframe
+Fase 3 - Desenvolvimento mobile android kotlin
+
