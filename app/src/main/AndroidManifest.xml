@@ -23,6 +23,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".ui.CameraPreviewActivity"
+            android:theme="@style/Theme.CaptureGongolaTag.NoActionBar" />
+
     </application>
 
 </manifest>
